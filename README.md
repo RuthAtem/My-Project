@@ -1,4 +1,4 @@
-# My-Project
+# TodoList App
 Todo list app project
 
 # Requirements
