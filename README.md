@@ -2,6 +2,8 @@
 Todo list app project
 
 # Requirements
-*Install Python
-*Install Django
-*Install MySQL
+Install Python
+
+Install Django
+
+Install MySQL
