@@ -1,5 +1,5 @@
 adium-theme-ubuntu==0.3.4
-Django==1.8.7
+Django==1.11.29
 pbr==1.8.0
 PyMySQL==0.9.3
 pytz==2014.10
